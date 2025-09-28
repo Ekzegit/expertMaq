@@ -1,0 +1,46 @@
+# Node
+node_modules/
+
+# Build
+/dist/
+/build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sass
+.sass-cache/
+
+# Gulp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.tmp
+*.bak
+*.swp
+
+# HTML output
+assets/demos/*/css/
+assets/demos/*/css/themes/
+
+# Ignore compiled files
+assets/plugins/font-awesome/
+assets/plugins/simple-line-icons/
+
+# Environment
+.env
+
+# Others
+*.cache
+.vscode
+.vs 
